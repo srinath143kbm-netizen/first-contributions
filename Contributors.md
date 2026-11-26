@@ -1,4 +1,4 @@
--[Srinath](https://githhub.com/srinath 143kbm-netizen)-hey, this is my first contribution!
+-[Srinath](https://githhub.com/srinath143kbm-netizen)-hey, this is my first contribution!
 
 _^[BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
